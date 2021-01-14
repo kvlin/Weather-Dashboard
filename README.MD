@@ -4,7 +4,7 @@ This project involves the use of OpenWeather API to retrieve weather data for ci
 <h1>Link</h1>
 https://klin4994.github.io/Weather-Dashboard/
 
-<h1>Screenshots</h1>
+<h1>Screenshot</h1>
 <p align="center"> 
 <br>
 <img src="assets\screenshot.PNG" alt="Application Screenshot">
