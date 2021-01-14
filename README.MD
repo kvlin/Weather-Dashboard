@@ -7,6 +7,6 @@ https://klin4994.github.io/Weather-Dashboard/
 <h1>Screenshots</h1>
 <p align="center"> 
 <br>
-<img src="Weather-Dashboard\assets\screenshot.PNG" alt="Application Screenshot">
+<img src="assets\screenshot.PNG" alt="Application Screenshot">
 </p>
 
