@@ -26,9 +26,6 @@ $("#searchBut").on("click", function () {
 })
 function weatherUpdate () {
     $(".dayCard").remove()
-    var iSun = "wi-day-sunny"
-    var iCloud = "wi-cloudy"
-    var iCloudSun = "fas fa-cloud-sun"
 
     var todayAPI = "https://api.openweathermap.org/data/2.5/weather?q=" + city + "&appid=62a27c25912cca94b3ca4f5f5f16b409";
     var locationAPI = "https://api.openweathermap.org/geo/1.0/direct?q=" + city + "&limit=5&appid=62a27c25912cca94b3ca4f5f5f16b409";
