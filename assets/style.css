@@ -1,0 +1,58 @@
+#header {
+    background-color: rgb(0, 88, 165);
+    color: white;
+    text-align: center;
+    font-size: 200%;
+    padding: 2% 0%;
+}
+#search {
+    border: solid;
+}
+#main {
+    border:solid;
+    background-color: rgb(199, 208, 223);
+}
+#searchInput {
+    height: 2em;
+}
+
+#weather5Days {
+    margin-top: 2em;
+    display: flex;
+    
+}
+#today h2{
+    display: inline;
+}
+#cityName{
+    text-transform :capitalize;
+}
+#uv {
+    padding: 0.5%;
+    border-radius: 20%;
+    border-color: aliceblue;
+}
+.dayCard{
+    display: flex;
+    border: solid;
+    border: rgb(133, 133, 133);
+}
+
+
+.btn-primary {
+    margin: 2% auto;
+    display: block;
+}
+
+.cityBut {
+    width: 100%;
+}
+
+@media only screen and (max-width: 800px) {
+    #weather5Days {
+        width: auto;
+        margin-top: 2em;
+        display: inline-block;
+        
+    }
+  }
