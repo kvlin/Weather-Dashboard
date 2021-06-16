@@ -1,5 +1,5 @@
 <h1>Description</h1>
-This project involves the use of OpenWeather API to retrieve weather data for cities around the world, and display them onto a dashboard.
+A simple application that fetches data from OpenWeather API to retrieves current and future weather details for cities around the world, and display them onto a dashboard.
 
 <h1>Link</h1>
 https://kvlin.github.io/Weather-Dashboard/
